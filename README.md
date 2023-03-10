@@ -7,3 +7,6 @@ java -jar renue_zad.jar 2 -Xmx7m
 выводим сообщение об ошибкев консоль и завершаем работу.
 
 ![image](https://user-images.githubusercontent.com/61544738/224364317-c58eb6ac-64ea-438d-8850-bef49a5148a1.png)
+
+![image](https://user-images.githubusercontent.com/61544738/224364514-c86143a9-79cf-422f-9483-0217dd047319.png)
+
