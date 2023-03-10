@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="renue_zad:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/renue_zad_jar</output-path>
+    <root id="archive" name="renue_zad.jar">
+      <element id="module-output" name="renue_zad" />
+    </root>
+  </artifact>
+</component>
